@@ -1,0 +1,2 @@
+C:\Users\manso\source\repos\TicTacToeCpp\TicTacToeCpp\Debug\TicTacToeCpp.firstGame.resources
+C:\Users\manso\source\repos\TicTacToeCpp\TicTacToeCpp\Debug\TicTacToeCpp.vcxproj.GenerateResource.cache

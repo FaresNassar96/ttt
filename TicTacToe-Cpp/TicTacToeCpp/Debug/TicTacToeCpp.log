@@ -1,0 +1,5 @@
+﻿  firstGame.cpp
+  .NETFramework,Version=v4.6.1.AssemblyAttributes.cpp
+  Generating Code...
+  firstGame.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  TicTacToeCpp.vcxproj -> C:\Users\manso\source\repos\TicTacToeCpp\Debug\TicTacToeCpp.exe
